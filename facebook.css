@@ -1,0 +1,209 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+.main{
+	height:auto;
+	width: 100%;
+	background-color: red;
+	float: left;
+}
+
+.header{
+	height: auto;
+	width: 100%;
+	background-color:#3b5998 ;
+	float: left;
+}
+
+.logo{
+	margin-left: 130px;
+	/*margin-top: 20px;*/
+	height: 80px;
+	width:25%;
+	/*background-color: white;*/
+	float: left;
+}
+
+.logo img{
+	width:55%;
+	height: 80px;
+
+	
+}
+
+.login{
+	height: 60px;
+	width: 40%;
+	float: right;
+	margin-top: 10px;
+
+}
+
+.login form table tr td{
+	color: white;
+	font-family: calibri;
+	font-size: 14px;
+	/*width: 5%;*/
+	margin-left: 20px;
+}
+
+.content{
+	height: 800px;
+	width: 100%;
+	background-color:#E1E5E6;
+	float: left;
+}
+
+.content1{
+	height: 800px;
+	width: 50%;
+	/*background-color:black;*/
+	float: left;
+}
+
+.content1 img{
+	width: 90%;
+	margin-left: 10%;
+}
+
+.content2{
+	height: 600px;
+	width: 50%;
+	/*background-color:red;*/
+	float: left;
+}
+
+.c1{
+	height: 50px;
+	width: 100%;
+	/*background-color: red;*/
+	color: black;
+	margin-top: 20px;
+	float: left;
+}
+
+.c1 p{
+	font-size: 40px;
+	font-family: calibri;
+	margin-left:10%;
+	/*font-style: bold;*/
+	color: #3A3E40;
+}
+
+.c2{
+	height: 50px;
+	width: 100%;
+	/*background-color: red;*/
+	/*color: black;*/
+	/*margin-top: 10px;*/
+	float: left;
+}
+
+.c2 p{
+	font-size: 24px;
+	font-family: calibri;
+	margin-left:10%;
+	/*font-style: bold;*/
+	color: #3A3E40;
+}
+
+.c3{
+	height:700px;
+	width: 100%;
+	/*background-color:red;*/
+	float: left;
+}
+
+.input1{
+	height: 50px;
+	width: 100%;
+	float: left;
+	/*background-color: green;*/
+	margin-left: 20%;
+	/*padding-left: 10px;*/
+	
+	
+}
+
+.input1 input{
+	width: 90%;
+	height: 40px;
+	border-radius:10px;
+	border: 2px solid #98A0A3; 
+	font-size: 18px;
+	float: left;
+}
+
+.input2{
+	height: 50px;
+	width: 100%;
+	float: left;
+	/*background-color: green;*/
+	margin-left: 10%;
+	/*padding-left: 10px;*/
+	
+	
+}
+
+.input2 input{
+	width: 100%;
+	height: 40px;
+	border-radius:10px;
+	border: 2px solid #98A0A3; 
+	font-size: 18px;
+	float: left;
+}
+
+.dob1{
+	width:100%;
+	height: 30px;
+	/*background-color:green;*/
+	float: left;
+	margin-left: 15%;
+	/*margin-left: 10px;*/
+
+}
+
+.dob1 select{
+	height: 30px;
+	width: 100%;
+	/*margin-left: 10px;*/
+}
+
+.dob2{
+	width: 100%;
+	height: 30px;
+	background-color:green;
+	float: left;}
+	
+
+.dob2 select{
+	height: 30px;
+	width:100%;
+}
+
+
+
+
+.dob3{
+	width: 100%;
+	height: 30px;
+	background-color:green;
+	float: left;
+	/*margin-left:10%;*/
+	
+
+}
+
+.dob3 select{
+	height: 30px;
+	width: 100%;
+}
+
+#btn{
+	height: 20px;
+	width: 50px;
+	margin-top: 300px;
+}
